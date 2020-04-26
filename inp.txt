@@ -1,0 +1,7 @@
+Jakob eger 3000 monitor 48000 processzor 90000 hangfal 15000
+Kiss Peter Laszlo monitor 61000 tapegyseg 25000 billentyuzet 17000 alaplap 27000
+Keszthelyi Ferenc monitor 50000 videokartya 105000 processzor 95000 memoria 24000
+Andras videokartya 120000 alaplap 32000 memoria 26000 gephaz 18000
+Daranthy Gabor billentyuzet 16000 eger 23000 egerpad 8000 hangfal 20000
+
+// A 3. sor miatt kap "Van!" eredményt.
